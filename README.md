@@ -1,2 +1,1 @@
-Project beginning
-more to be added later.
+A simple Ruby batchrunner for Umbraco API endpoints
